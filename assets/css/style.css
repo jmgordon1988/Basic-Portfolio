@@ -39,8 +39,8 @@ body {background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbna
 
 .wrapper {width: 960px;
         padding: 20px;
-        margin: 0 auto;
-        height: 435px;
+        margin: 20px auto;
+        height: 415px;
         background: #ffffff;
         border: 2px solid #dddddd;
         font-size: 25px;
@@ -56,6 +56,6 @@ body {background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbna
 .footer {clear: both;
         text-align: center;
         background: #666666;
-        padding: 30px;
+        padding: 20px;
         border-top: 20px solid #4aaaa5;
 }
