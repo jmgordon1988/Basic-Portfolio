@@ -21,9 +21,8 @@
 
 body {background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/ExspEUkoliksz67w8/green-matrix-background_r1gl8-f__F0000.png");
     margin:0;
-    height: 960px;
-    background-size: contain;
-    background-repeat: no-repeat;
+    height: 100%;
+
 }
 
 .name {background: #4aaaa5;
@@ -41,7 +40,7 @@ body {background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbna
 .wrapper {width: 960px;
         padding: 20px;
         margin: 0 auto;
-        height: 500px;
+        height: 435px;
         background: #ffffff;
         border: 2px solid #dddddd;
         font-size: 25px;
