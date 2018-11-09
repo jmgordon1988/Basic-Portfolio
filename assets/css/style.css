@@ -5,6 +5,10 @@
             }
     
 .links {float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    word-spacing: 5px;
+    margin: 25px;
 }
 
 .outline {    border-bottom: 2px solid #cccccc;
@@ -16,7 +20,11 @@
 }
 
 body {background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/ExspEUkoliksz67w8/green-matrix-background_r1gl8-f__F0000.png");
-    margin:0;}
+    margin:0;
+    height: 960px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 .name {background: #4aaaa5;
         color: white;
@@ -24,23 +32,31 @@ body {background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbna
         margin-left: 13%;
         margin-top: 0;
         padding: 21px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
 .aboutme {clear: both;
         }
 
-.wrapper {width: 600px;
+.wrapper {width: 960px;
         padding: 20px;
         margin: 0 auto;
-        height: 570px;
+        height: 500px;
         background: #ffffff;
         border: 2px solid #dddddd;
+        font-size: 25px;
+        color: #777777;
     }
 
 
 .aboutmetext {font-size: 40px;
             height: 100px;
-            color: #4aaaa5;}
+            color: #4aaaa5;
+        font-family: Georgia, 'Times New Roman', Times, serif;}
 
 .footer {clear: both;
-        text-align: center;}
+        text-align: center;
+        background: #666666;
+        padding: 30px;
+        border-top: 20px solid #4aaaa5;
+}
