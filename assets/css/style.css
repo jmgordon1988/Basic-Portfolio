@@ -1,0 +1,31 @@
+.portfolioimage {width: 250px;
+                height: 210px;
+                float: left;
+                transform: rotate(90deg);
+            }
+    
+.links {float: right;
+}
+
+.name {background: blue;
+        color: white;
+        float: left;
+        margin-left: 13%;
+        margin-top: 0;
+        padding: 21px;
+    }
+
+.aboutme {clear: both;
+        }
+
+.wrapper {width: 600px;
+        padding: 20px;
+        margin: 0 auto;
+    }
+
+
+.aboutmetext {font-size: 40px;
+            height: 100px;}
+
+.footer {clear: both;
+        text-align: center;}
