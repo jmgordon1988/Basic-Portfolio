@@ -7,7 +7,13 @@
 .links {float: right;
 }
 
-.name {background: blue;
+.outline {    border-bottom: 2px solid #cccccc;
+    padding: 39px;
+    background: #ffffff;
+}
+.header {background-color: #ffffff;}
+
+.name {background: #4aaaa5;
         color: white;
         float: left;
         margin-left: 13%;
@@ -21,11 +27,15 @@
 .wrapper {width: 600px;
         padding: 20px;
         margin: 0 auto;
+        height: 570px;
+        background: #ffffff;
+        border: 2px solid #dddddd;
     }
 
 
 .aboutmetext {font-size: 40px;
-            height: 100px;}
+            height: 100px;
+            color: #4aaaa5;}
 
 .footer {clear: both;
         text-align: center;}
