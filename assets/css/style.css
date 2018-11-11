@@ -46,10 +46,34 @@ body {background-image: url('../images/circuit.png');
         font-size: 21px;
         color: #777777;
     }
+.wrapper2 {width: 960px;
+        padding: 20px;
+        margin: 20px auto;
+        height: 431px;
+        background: #ffffff;
+        border: 2px solid #dddddd;
+        font-size: 21px;
+        color: #777777;
+    }
+    .wrapper3 {width: 55%;
+        padding: 20px;
+        margin: 20px auto;
+        height: 75%;
+        background: #ffffff;
+        border: 2px solid #dddddd;
+        font-size: 21px;
+        color: #777777;
+    }
 
 
 .aboutmetext {font-size: 40px;
             height: 100px;
+            color: #4aaaa5;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        border-bottom: 2px solid #cccccc;}
+
+.aboutmetext2 {font-size: 40px;
+            height: 74px;
             color: #4aaaa5;
         font-family: Georgia, 'Times New Roman', Times, serif;}
 
@@ -63,3 +87,21 @@ body {background-image: url('../images/circuit.png');
         bottom: 0;
         width: 100%;
 }
+
+.contactborder {border-bottom: 2px solid #cccccc;}
+
+
+#name, #email, #subject  {width: 100%;
+                    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.submit {background-color: #4aaaa5;
+        color: #ffffff;
+        text-align: center;
+        width: 94px;}
+
+.marginspace {margin-top: 10px;}
+
+.gallerypics {
+    padding-left: 200px;
+}
+
